@@ -1,0 +1,21 @@
+# Machine Learning
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+joblib
+
+# Visualização
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+notebook
+jupyterlab
+ipykernel
+ipywidgets
+
+# Utilidades
+requests
